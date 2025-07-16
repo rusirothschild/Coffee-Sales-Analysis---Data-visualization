@@ -19,7 +19,7 @@ This project analyzes a dataset of 2,000 daily entries from various coffee shops
 
 ---
 
-## ** Part 2: Analysis & Visualizations**
+##  Part 2: Analysis & Visualizations
 
 We investigated the relationships between revenue and operational features using scatter plots, line graphs, and interactive dashboards in **Tableau**.
 
@@ -32,7 +32,7 @@ Key analyses included:
 
 ---
 
-## ** Key Findings**
+##  Key Findings
 
 - **Customer count** and **average order value** are the **strongest predictors** of revenue  
 - **Foot traffic** and **marketing spend** show **weak positive correlations**  
@@ -41,7 +41,7 @@ Key analyses included:
 
 ---
 
-## ** Business Implications**
+## Business Implications
 
 - Focus on strategies to **increase customer traffic** and **boost order value**  
 - Avoid over-investing in areas like longer hours or extra staffing without supporting data  
@@ -49,7 +49,7 @@ Key analyses included:
 
 ---
 
-## ** Ethical Considerations**
+##  Ethical Considerations
 
 - All data used was **anonymized** and **free of personal identifiers**  
 - Context was included to **avoid misinterpretation or biased conclusions**  
@@ -57,7 +57,7 @@ Key analyses included:
 
 ---
 
-## ** Tools Used**
+##  Tools Used
 
 - **Python** – Data cleaning and exploration (Jupyter Notebook)  
 - **Tableau** – Visualizations and interactive dashboard  
@@ -65,7 +65,7 @@ Key analyses included:
 
 ---
 
-## ** Collaboration**
+##  Collaboration
 
 This project was completed jointly by **Rusi Rothschild** and **Chashy Luria**.  
 We collaborated on all aspects of the analysis, visualizations, and reporting via Zoom.
