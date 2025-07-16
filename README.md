@@ -4,7 +4,7 @@ Exploring operational and marketing factors that influence daily revenue in coff
 
 ---
 
-## ** Project Summary**
+## * Project Summary*
 
 This project analyzes a dataset of 2,000 daily entries from various coffee shops. We explored how factors such as foot traffic, customer count, order value, operating hours, employee count, and marketing spend affect daily revenue. The goal was to uncover which variables most strongly influence business performance.
 
